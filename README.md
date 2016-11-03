@@ -1,10 +1,11 @@
 # sysjo-dev スマートフォンサイト作成
 sysjoスマートフォン対応ようリポジトリです。
 
-##member
-*yazzytommy
-*etc
+## member
 
-##ファイル構成
+* yazzytommy
+* etc
 
-##リリース方法
+## ファイル構成
+
+## リリース方法
